@@ -1,8 +1,0 @@
-flask
-numpy
-librosa
-scikit-learn
-joblib
-pydub
-soundfile
-requests
